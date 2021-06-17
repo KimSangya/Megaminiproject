@@ -25,7 +25,7 @@ public class LevelChoice extends JPanel implements MiniGame,ActionListener{
 	
 	/**
 	 * 메인 화면(패널)
-	 * @param parent 이전 화면에서 해당 패널을 불러올 때 연동하기 위해 사용
+	 * 
 	 */
 	LevelChoice(MainPanel_MineSweeper parents){
 		super();
