@@ -74,7 +74,8 @@
 
 #### 프로젝트 사용 화면
 
-![game screenshot](https://user-images.githubusercontent.com/83326164/122423253-bf9bce00-cfc8-11eb-8e28-aa1483b2fd71.png)
+![KakaoTalk_20210618_001328392](https://user-images.githubusercontent.com/83326077/122445143-35f5fb80-cfdc-11eb-989e-f2371d114ee2.png)
+
 
 #### Javadoc 링크(repo 내부 링크)
 
